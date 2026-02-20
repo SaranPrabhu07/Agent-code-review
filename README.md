@@ -5,7 +5,7 @@ A DevOps automation tool that acts as a "Smart Gatekeeper" for your code. It lev
 ---
 
 ## 🚀 The Core Idea: "Shift-Left" Security
-In DevOps, "Shift-Left" means moving testing and security to the earliest possible stage. This tool prevents "oops" commits by analyzing your **Git Staged Changes** and blocking the commit if it detects security risks or logic bugs.
+In DevOps, "Shift-Left" means moving testing and security to the earliest possible stage. This tool prevents "oops" commits by analyzing your **Git Staged Changes** and blocking the commit if it detects security risks or logic bugs.!
 
 
 
