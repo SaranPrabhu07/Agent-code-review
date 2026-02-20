@@ -1,0 +1,22 @@
+# 🚀 Code Review System
+
+An intelligent automated code review system powered by an AI Agent, semantic analysis, and risk-aware context compression.
+
+This project builds a modular AI architecture that analyzes source code, detects potential risks, retrieves relevant best practices, and generates structured code review feedback using LLMs.
+
+---
+
+## 🎯 Project Goals
+
+Traditional code reviews are:
+
+- slow
+- inconsistent
+- dependent on reviewer experience
+
+This system aims to:
+
+✅ Automate code review workflows  
+✅ Compress large code contexts intelligently  
+✅ Provide fast, accurate feedback  
+✅ Apply best-practice knowledge dynamically via agent  
