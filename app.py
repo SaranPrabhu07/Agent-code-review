@@ -2,7 +2,7 @@ import streamlit as st
 from google import genai
 import os
 
-# Page Config
+## Page Config
 st.set_page_config(page_title="AI Code Reviewer", page_icon="🤖")
 
 st.title("🤖 AI Code Review Gatekeeper")
@@ -10,7 +10,7 @@ st.markdown("""
 Paste your code changes below to see how the **DevOps AI Agent** reviews your work!
 """)
 
-# Sidebar for configuration
+## Sidebar for configuration
 with st.sidebar:
     st.header("Settings")
     api_key = st.text_input("Enter Gemini API Key", type="password")
