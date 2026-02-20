@@ -3,8 +3,8 @@ import os
 import requests
 import sys
 
-# 1. Configuration
-# Get your key from https://aistudio.google.com/
+## 1. Configuration
+## Get your key from https://aistudio.google.com/
 API_KEY = os.getenv("AI_KEY")
 # Using Gemini 2.0 Flash (Fast & Free)
 URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
